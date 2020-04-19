@@ -40,7 +40,7 @@
 "hunt_config": {
 	"cap_leave": 100,
 	"mana_name": "mana potion",
-	"take_mana": 100,
+	"take_mana": 450,
 	"mana_leave": 50,
 	"rune_name": "avalanche rune",
 	"take_rune": 80,

@@ -9,8 +9,8 @@
 		"use_soft_boots": false
 	},
 	"containers": {
-		"gold_bp": "Golden Backpack",
-		"loot_bp": "Red Backpack"
+		"gold_bp": "jewelled Backpack",
+		"loot_bp": "deepling Backpack"
 	},
 	"tools": {
 		"rope": {"name": "rope", "id": 3003}
@@ -36,7 +36,7 @@
 	"hunt_config": {
 		"cap_leave": 100,
 		"mana_name": "mana potion",
-		"take_mana": 130,
+		"take_mana": 450,
 		"mana_leave": 40,
 		"health_name": "health potion",
 		"take_health": 10,
